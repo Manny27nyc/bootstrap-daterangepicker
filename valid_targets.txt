@@ -1,0 +1,16 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./moment.js
+./daterangepicker.js
+./example/browserify/bundle.js
+./example/browserify/main.js
+./example/amd/main.js
+./example/amd/require.js
+./website/website.js
+./package.js
+./valid_targets.txt
+./moment.min.js
