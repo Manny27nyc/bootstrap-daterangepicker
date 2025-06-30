@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 Package.describe({
   name: 'dangrossman:bootstrap-daterangepicker',
   version: '2.1.22',

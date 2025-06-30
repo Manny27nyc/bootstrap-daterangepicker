@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 requirejs.config({
     "paths": {
       "jquery": "https://code.jquery.com/jquery-1.11.3.min",

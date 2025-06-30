@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 require('../../daterangepicker.js');
 var $ = require('jquery'),
     moment = require('moment');

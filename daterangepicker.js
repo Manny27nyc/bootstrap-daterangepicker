@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
 * @version: 2.1.23-beta
 * @author: Dan Grossman http://www.dangrossman.info/
